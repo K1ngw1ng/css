@@ -92,12 +92,3 @@
 	background-color: transparent !important;
 	background-size: cover;
 }
-:root .container_e40c16 > .content_e40c16::before {
-  content: "";
-  position: absolute;
-  bottom: 20px;
-  left: calc(50% - 100px);
-  width: 200px;
-  height: 200px;
-  background: url("https://comfy-themes.github.io/Discord/assets/bonfire.gif") center/80% no-repeat;
-}
