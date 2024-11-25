@@ -29,7 +29,7 @@
 
 	/* accent colors */
 	--accent-1: hsl(267, 84%, 81%); /* links */
-	--accent-2: hsl(267, 84%, 81%); /* general unread/mention elements */
+	--accent-2: hsl(343, 81%, 75%); /* general unread/mention elements */
 	--accent-3: hsl(267, 84%, 81%); /* accent buttons */
 	--accent-4: hsl(267, 70%, 73%); /* accent buttons when hovered */
 	--accent-5: hsl(267, 55%, 65%); /* accent buttons when clicked */
