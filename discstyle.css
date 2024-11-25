@@ -1,9 +1,8 @@
 /**
  * @name midnight (catppuccin mocha)
  * @description A dark, rounded discord theme. Based on catppuccin mocha theme (https://github.com/catppuccin/catppuccin).
- * @author refact0r
+ * @author refact0r & K1ngw1ng
  * @version 1.6.2
- * @invite nz87hXyvcy
  * @website https://github.com/refact0r/midnight-discord
  * @source https://github.com/refact0r/midnight-discord/blob/master/flavors/midnight-catppuccin-mocha.theme.css
  * @authorId 508863359777505290
@@ -34,7 +33,7 @@
 	--accent-3: hsl(267, 84%, 81%); /* accent buttons */
 	--accent-4: hsl(267, 70%, 73%); /* accent buttons when hovered */
 	--accent-5: hsl(267, 55%, 65%); /* accent buttons when clicked */
-	--mention: hsla(267, 70%, 71%, 0.1); /* mentions & mention messages */
+	--mention: hsl(343, 81%, 75%); /* mentions & mention messages */
 	--mention-hover: hsla(267, 70%, 71%, 0.05); /* mentions & mention messages when hovered */
 
 	/* text colors */
